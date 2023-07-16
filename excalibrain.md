@@ -128,19 +128,19 @@ Set up tools DB ^jNgjeyIS
 
 [[Add Users]] ^BLGsjFBr
 
-[[Alerts]] ^5bF9X8zl
+[[ALERTS]] ^5bF9X8zl
 
-[[Audit Log Report]] ^4C83e517
+[[AUDIT LOGS]] ^4C83e517
 
-[[Auditing]] ^TzEE1nFB
+[[AUDITING]] ^TzEE1nFB
 
-[[Backups]] ^lTgSRDIK
+[[BACKUPS]] ^lTgSRDIK
 
 [[Disable]] ^vAD6THJH
 
 [[Edit users]] ^NHkucZXD
 
-[[File system]] ^vkz9aYsS
+[[FILE SYSTEM]] ^vkz9aYsS
 
 [[Investigate current PO system]] ^PlZwCKtQ
 
@@ -152,9 +152,9 @@ Set up tools DB ^jNgjeyIS
 
 [[See all users]] ^w8xYtRhP
 
-[[Set up tools dashboard]] ^aHorL7KI
+[[DASHBOARD]] ^aHorL7KI
 
-[[Set up tools DB]] ^Gbw5qjYf
+[[DATABASE]] ^Gbw5qjYf
 
 %%
 # Drawing

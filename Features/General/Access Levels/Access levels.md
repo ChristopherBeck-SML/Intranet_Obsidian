@@ -7,4 +7,4 @@
 	[[Manager]]
 	[[HR]]
 [[IT]]
-[[Admin]]
+[[Features/General/Access Levels/Admin]]
