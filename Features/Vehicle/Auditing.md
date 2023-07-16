@@ -1,0 +1,23 @@
+#todo
+- Investigate possible ways to track changes made
+		- Data Tracking in Access
+			- Quickest and easiest to implement
+			- Doesn't really give the detail needed
+			- Specific to each database
+		- Separate Audit Database
+			- Centralised location for all database change logs
+			- Master database containing tables for each tracked database
+				- AuditID (AutoNumber, Primary Key): A unique identifier for each audit record.
+				- TableName (Text): The name of the table in the tracked database that was modified.
+				- FieldName (Text): The name of the field/column that was changed.
+				- OldValue (Text): The previous value of the field before the change.
+				- NewValue (Text): The new value of the field after the change.
+				- ChangeTimestamp (Date/Time): The date and time when the change occurred.
+				- UserName (Text): The name of the user who made the change.
+			- Link tracked DB to audit DB
+				- External Data -> Import & Link 
+			- Create macros to capture change and add record to audit DB
+				- Update
+				- Insert
+				- Delete
+			- Implement user authentication to track who made the changes
