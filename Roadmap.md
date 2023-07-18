@@ -2,6 +2,7 @@
 	[[AUDIT LOGS]]
 	[[BACKUPS]]
 	[[USER CONTROL]]
+	[[User Setup]]
 
 [[GENERAL]]
 	[[Access levels]]
