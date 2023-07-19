@@ -23,6 +23,8 @@
 [[TOOLS]]
 	[[DASHBOARD]]
 	[[DATABASE]]
+		[[Separate out driver table]]
+		[[Refactor code to pull data from new driver database]]
 	
 [[VEHICLE]]
 	[[ALERTS]]

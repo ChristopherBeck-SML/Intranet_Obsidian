@@ -6,10 +6,10 @@
 	[[Finance]]
 	[[Manager]]
 	[[HR]]
-[[IT]]
-[[Features/General/Access Levels/Admin]]
+	[[IT]]
+	[[Features/General/Access Levels/Admin|Admin]]
 
 
 ## Intranet Wide Access Levels
 
-![[Pasted image 20230718113509.png]]
+![[Pasted image 20230719092514.png]]
