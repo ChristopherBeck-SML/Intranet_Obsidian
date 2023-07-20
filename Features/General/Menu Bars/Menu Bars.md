@@ -1,4 +1,4 @@
-#todo
+#contents
 The choice between a bespoke toolbar for each page or a unified toolbar based on access levels depends on several factors, including user experience, efficiency, and the complexity of your system. Here are some considerations for each approach:
 
 1. Bespoke Toolbar for Each Page:

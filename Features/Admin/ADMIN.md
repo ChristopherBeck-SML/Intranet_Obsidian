@@ -1,4 +1,6 @@
-#todo
-[[USER CONTROL]]
-[[AUDIT LOGS]]
-[[BACKUPS]]
+#contents
+## Contents of Admin Features
+
+- [[User Control]]
+- [[Audit Logs]]
+- [[Backups]]

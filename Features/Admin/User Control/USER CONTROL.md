@@ -1,5 +1,7 @@
-#todo
-[[Add Users]]
-[[Edit users]]
-[[See all users]]
-[[Remove Users]]
+#contents 
+
+## Contents of User Control Features
+- [[Add Users]]
+- [[Edit Users]]
+- [[See all users]]
+- [[Remove Users]]

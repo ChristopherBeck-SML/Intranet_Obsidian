@@ -1,3 +1,5 @@
-[[DASHBOARD]]
-[[DATABASE]]
-#todo
+#contents 
+## Contents of Tools
+
+- [[Dashboard]]
+- [[Database]]

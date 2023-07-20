@@ -1,3 +1,4 @@
+#feature
 #done
 - HTML
 	- [x]  Add disable check to vehicle info
