@@ -1,7 +1,7 @@
 #contents
 ## Contents of All Features
 
-- [[Features/Admin/Admin|Admin]]
+- [[Administrator|Administrator]]
 	- [[Audit Logs]]
 		- [[Database change tracking]]
 		- [[Intranet Access tracking]]

@@ -1,5 +1,5 @@
 #contents
-## Contents of Admin Features
+## Contents of Administrator Features
 
 - [[User Control]]
 - [[Audit Logs]]
