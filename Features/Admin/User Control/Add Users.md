@@ -1,12 +1,7 @@
-#feature 
 #done
 
-### Summary
-Ability to add intranet users from the Admin dashboard - Creates a new user record in the security database. The new users username, full name, access level, division and job role will be recorded and added.
-
-#### To implement
-
-- [x] Click button
+Add users to the intranet
+- [x] Click button   
 - [x] Ask user for required details
 	- First Name
 	- Last Name
@@ -26,7 +21,7 @@ Ability to add intranet users from the Admin dashboard - Creates a new user reco
 		- Manager
 		- Administrator
 		- Other/Custom
-	- Jo
+	- Job Role
 - [x] Pass details into Access database and create new record
 	- username (Username)
 	- fullname (First Name + Last Name)

@@ -1,7 +1,3 @@
-#contents
-## Contents of Tools Dashboard
-
-- [[Create Tools table]]
-- [[Edit Tools]]
-- [[Remove Tool]]
-- [[Add Tool]]
+#todo 
+Set up the dashboard to view the tools database
+[[Create Tools table]]

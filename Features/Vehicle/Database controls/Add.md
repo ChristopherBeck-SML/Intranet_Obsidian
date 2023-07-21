@@ -1,4 +1,3 @@
-#feature
 #done
 - [x] Driver button
 		- Ask user for new driver name

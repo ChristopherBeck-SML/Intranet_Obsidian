@@ -1,8 +1,6 @@
-#feature
 #todo 
 
-### Summary
-
+### Description of <%tp.file.title%>
 
 #### To implement
 - [ ] 

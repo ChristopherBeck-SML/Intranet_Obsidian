@@ -1,10 +1,4 @@
-#backend 
-#done
-
-### Summery
-Refactor existing code to retrieve data from new Drivers Database. 
-
-#### To Implement
+#done 
 
 - [x] Drivers details page (vehicles dashboard view)
 - [x] Vehicle details page (vehicles dashboard view)
