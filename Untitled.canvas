@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"99eee8b40d0ef4d6","x":-80,"y":-460,"width":250,"height":60,"type":"text","text":"Renew Camblet"},
+		{"id":"6e4931cec9e024b2","x":-80,"y":-300,"width":250,"height":60,"type":"text","text":"Get current mileage from vehicle (currentMileage)"},
+		{"id":"0397055dd3da10f3","x":-80,"y":-160,"width":250,"height":89,"type":"text","text":"\"Please enter the total vehicle mileage when the cambelt was changed\""},
+		{"id":"c75189dc4e0f0025","x":500,"y":10,"width":250,"height":60,"type":"text","text":"Enter different mileage (NewMileage)"},
+		{"id":"583585495253945f","x":-75,"y":231,"width":240,"height":60,"type":"text","text":"New Cambelt mileage = 0"},
+		{"id":"f36b2b21eb71c3a3","x":490,"y":221,"width":270,"height":81,"type":"text","text":"New Cambelt mileage = currentMileage - NewMileage"},
+		{"id":"a2e3ab910effc945","x":-91,"y":10,"width":273,"height":60,"type":"text","text":"Default Value = currentMileage"}
+	],
+	"edges":[
+		{"id":"7a996e0e753a25b2","fromNode":"99eee8b40d0ef4d6","fromSide":"bottom","toNode":"6e4931cec9e024b2","toSide":"top","label":"Click renew button"},
+		{"id":"b730b52f32b2af5c","fromNode":"6e4931cec9e024b2","fromSide":"bottom","toNode":"0397055dd3da10f3","toSide":"top","label":"Alert popup"},
+		{"id":"fa668288790e201f","fromNode":"0397055dd3da10f3","fromSide":"bottom","toNode":"a2e3ab910effc945","toSide":"top","label":"Input box"},
+		{"id":"62800af0dda89188","fromNode":"a2e3ab910effc945","fromSide":"right","toNode":"c75189dc4e0f0025","toSide":"left","color":"1","label":"IF new cambelt was NOT \ninstalled at current mileage"},
+		{"id":"2b9065864339c528","fromNode":"a2e3ab910effc945","fromSide":"bottom","toNode":"583585495253945f","toSide":"top","color":"4","label":"IF new cambelt was installed\nat current mileage"},
+		{"id":"aee85805f255f20a","fromNode":"c75189dc4e0f0025","fromSide":"bottom","toNode":"f36b2b21eb71c3a3","toSide":"top","label":"Calculate the number of miles\non the new camblet"}
+	]
+}
