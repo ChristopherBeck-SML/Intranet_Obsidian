@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"99eee8b40d0ef4d6","x":-80,"y":-460,"width":250,"height":60,"type":"text","text":"Renew Camblet"},
-		{"id":"6e4931cec9e024b2","x":-80,"y":-300,"width":250,"height":60,"type":"text","text":"Get current mileage from vehicle (currentMileage)"},
+		{"id":"6e4931cec9e024b2","x":-80,"y":-300,"width":250,"height":60,"type":"text","text":"Get current mileage from vehicle currentMileage"},
 		{"id":"0397055dd3da10f3","x":-80,"y":-160,"width":250,"height":89,"type":"text","text":"\"Please enter the total vehicle mileage when the cambelt was changed\""},
 		{"id":"c75189dc4e0f0025","x":500,"y":10,"width":250,"height":60,"type":"text","text":"Enter different mileage (NewMileage)"},
 		{"id":"583585495253945f","x":-75,"y":231,"width":240,"height":60,"type":"text","text":"New Cambelt mileage = 0"},
