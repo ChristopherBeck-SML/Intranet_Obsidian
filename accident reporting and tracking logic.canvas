@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"04461ec7b4b94906","x":-47,"y":-440,"width":193,"height":60,"type":"text","text":"Incident takes place"},
-		{"id":"a8e15378e30e0d2a","x":-115,"y":-240,"width":330,"height":148,"type":"text","text":"Add Vehicle Incident\n- link to vehicle registration\n- link to driver name (find driverID)\n- save finished report as PDF"},
-		{"id":"f3f08f3c74d1cd7f","x":-132,"y":0,"width":364,"height":213,"type":"text","text":"Add incident to database table\n- incident_ID (autonumber)\n- reg (short text - tbl_vehicle lookup)\n- driverID (number - tbl_dirvers lookup)\n- report_as_PDF (attachment)\n- costs (rich/long text)"}
+		{"type":"text","text":"Incident takes place","id":"04461ec7b4b94906","x":-47,"y":-440,"width":193,"height":60},
+		{"type":"text","text":"Add Vehicle Incident\n- link to vehicle registration\n- link to driver name (find driverID)\n- save finished report as PDF","id":"a8e15378e30e0d2a","x":-115,"y":-240,"width":330,"height":148},
+		{"type":"text","text":"Add incident to database table\n- incident_ID (autonumber)\n- date_of_incident (date)\n- reg (short text - tbl_vehicle lookup)\n- driverID (number - tbl_dirvers lookup)\n- report_as_PDF (attachment)\n- costs (rich/long text)","id":"f3f08f3c74d1cd7f","x":-132,"y":0,"width":364,"height":213}
 	],
 	"edges":[
 		{"id":"e2c414842d87b509","fromNode":"a8e15378e30e0d2a","fromSide":"bottom","toNode":"f3f08f3c74d1cd7f","toSide":"top"},
