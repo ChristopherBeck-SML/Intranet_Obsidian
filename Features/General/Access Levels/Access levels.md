@@ -12,4 +12,4 @@
 
 ## Intranet Wide Access Levels
 
-![[Pasted image 20230719092514.png]]
+![[User Access Levels.png]]
