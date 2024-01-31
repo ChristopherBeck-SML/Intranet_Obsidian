@@ -1,6 +1,8 @@
-pizza - thur
-ench -fri 
-saus and mash - sat
-burg - sun
-chick burg - mon
+Thur - ench
+Fri - onigiri
+Sat - pizza
+Sun - sausage and mash
+Mon - halloumi wraps
+Tue - beef curry
+Wed - scampi
 
