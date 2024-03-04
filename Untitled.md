@@ -1,8 +1,7 @@
-Thur - ench
-Fri - onigiri
-Sat - pizza
-Sun - sausage and mash
-Mon - halloumi wraps
-Tue - beef curry
-Wed - scampi
-
+tue - chicken alfredo 
+wed - pasta bake halloumi + bacon
+thur - pasta bake
+fri - tacos - chicken
+sat - fish sandwiches + chips
+sun - chicken + chorizo burgers
+mon - tortilla bowls - mince
