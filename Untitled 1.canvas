@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"24fb1a54c8928d02","x":-140,"y":-300,"width":250,"height":60,"type":"text","text":"Fire"},
+		{"id":"48f5144788e5fd72","x":-390,"y":-210,"width":250,"height":60,"type":"text","text":"Water"},
+		{"id":"cc9b03a7ad625001","x":-515,"y":-51,"width":250,"height":60,"type":"text","text":"Air"},
+		{"id":"9716be23ab030981","x":110,"y":-210,"width":250,"height":60,"type":"text","text":"Nature"},
+		{"id":"61c0c9dff1b30e1e","x":235,"y":-51,"width":250,"height":60,"type":"text","text":"Ice"}
+	],
+	"edges":[
+		{"id":"dafdffc1ce16af03","fromNode":"24fb1a54c8928d02","fromSide":"bottom","toNode":"61c0c9dff1b30e1e","toSide":"left","color":"4"},
+		{"id":"1842513ce9d5309f","fromNode":"24fb1a54c8928d02","fromSide":"bottom","toNode":"9716be23ab030981","toSide":"left","color":"4"},
+		{"id":"fd2d740a7f80f763","fromNode":"24fb1a54c8928d02","fromSide":"bottom","toNode":"48f5144788e5fd72","toSide":"right","color":"1"},
+		{"id":"f53f5ed7c7a811bc","fromNode":"24fb1a54c8928d02","fromSide":"bottom","toNode":"cc9b03a7ad625001","toSide":"right","color":"1"}
+	]
+}
